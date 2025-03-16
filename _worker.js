@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "hirul9383.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "tuneling.biz.id"; // Ganti dengan domain utama kalian
 const serviceName = "kaneki"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
